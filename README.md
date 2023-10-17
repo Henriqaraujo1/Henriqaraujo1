@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Henriqaraujo1 from Brazil
-- 👀 I’m interested in Jobs and make websites
-- 🌱 I’m currently learning Fullstack engineer in codecademy
+- 👋 Olá, sou @Henriqaraujo1 engenheiro de software e fullstack (React + Node) do Brasi
 
 
 <!---
