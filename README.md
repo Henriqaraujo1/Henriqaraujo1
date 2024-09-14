@@ -5,7 +5,7 @@
 
 Eu sou **Henrique Araújo**. Sou casado e tenho dois filhos maravilhosos. 👨‍👩‍👧‍👦
 
-<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="20" height="15" /> <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="20" height="15" />
+<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="20" height="15" />
 
 Fique à vontade para explorar meu trabalho e se conectar comigo!
 
