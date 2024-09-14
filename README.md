@@ -1,4 +1,12 @@
 ### Desenvolvedor Fullstack | React, Node.js, PostgreSQL, Docker
+### Olá! 👋
+
+Eu sou **Henrique Araújo**. Sou casado e tenho dois filhos maravilhosos. 👨‍👩‍👧‍👦
+
+![Brazil Flag](https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg)
+
+Fique à vontade para explorar meu trabalho e se conectar comigo!
+
 Olá! Sou um Desenvolvedor Fullstack apaixonado com 3 anos de experiência na criação de aplicações web robustas e escaláveis. 
 
 Minhas habilidades incluem:
@@ -10,6 +18,13 @@ Minhas habilidades incluem:
 
 Fundei e desenvolvi um sistema completo de varejo na Worldsoft, cobrindo controle de vendas, gestão de estoque, finanças e relatórios. Sou dedicado a entregar soluções de alta qualidade e a aprimorar continuamente minhas habilidades técnicas.
 
+### Hi there! 👋
+
+I'm **Henrique Araújo**. I’m married and have two wonderful kids. 👨‍👩‍👧‍👦
+
+![USA Flag](https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg)
+
+Feel free to explore my work and connect with me!
 
 ### Fullstack Developer | React, Node.js, PostgreSQL, Docker
 
