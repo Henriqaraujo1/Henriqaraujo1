@@ -22,13 +22,12 @@ Fique à vontade para explorar meu trabalho e se conectar comigo!
 
 ---
 
-**In English:**
+**In English:** <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="20" height="15" />
 
-```markdown
 ### Hi there! 👋
 
 I'm **Henrique Araújo**, a Fullstack Developer. I’m married and have two wonderful kids. 👨‍👩‍👧‍👦
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="20" height="15" />
+
 
 ### About Me
 
