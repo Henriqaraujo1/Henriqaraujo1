@@ -1,15 +1,7 @@
 ### Desenvolvedor Fullstack | React, Node.js, PostgreSQL, Docker
+Olá! Sou um Desenvolvedor Fullstack apaixonado com 3 anos de experiência na criação de aplicações web robustas e escaláveis. 
 
-**Note:** There are two versions of the text available: one in [English](#english-version) and one in [Portuguese](#portuguese-version). Feel free to choose the version that best suits your needs.
-
----
-
-**Observação:** Existem duas versões do texto disponíveis: uma em [inglês](#english-version) e outra em [português](#portuguese-version). Sinta-se à vontade para escolher a versão que melhor se adequa às suas necessidades.
-
-
-
-
-Olá! Sou um Desenvolvedor Fullstack apaixonado com 3 anos de experiência na criação de aplicações web robustas e escaláveis. Minhas habilidades incluem:
+Minhas habilidades incluem:
 
 - **Front-End:** Proficiente em React, styled-components e Redux, criando interfaces de usuário responsivas e dinâmicas.
 - **Back-End:** Experiência com Node.js e Express, desenvolvendo lógica de servidor segura e APIs eficientes.
