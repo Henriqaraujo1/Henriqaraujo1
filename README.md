@@ -57,9 +57,3 @@ I work autonomously across the entire software development lifecycle (end-to-end
 > - **A Solução:** Implementação de API RESTful em Node.js com arquitetura modular e Front-end reativo em React.
 > - **Infraestrutura:** Configurei o ambiente de produção em VPS Linux utilizando Docker para garantir consistência entre ambientes.
 
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriqaraujo1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqaraujo1&layout=compact&theme=dracula"/>
-</div>
