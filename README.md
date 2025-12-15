@@ -1,47 +1,65 @@
-### Olá! 👋
+# Olá, sou o Henrique Silva! 👋
+### Engenheiro de Software Full Stack (Node.js | React)
 
-Eu sou **Henrique Araújo**, um Desenvolvedor Fullstack. Sou casado e tenho dois filhos maravilhosos. 👨‍👩‍👧‍👦
-<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="20" height="15" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/henrique-silva96/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:henriqaraujo1@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-### Sobre Mim
+<br />
 
-Sou um Desenvolvedor Fullstack apaixonado com 3 anos de experiência na criação de aplicações web robustas e escaláveis. Tenho uma sólida experiência em tecnologias de front-end, back-end e DevOps, e sou dedicado a entregar soluções de alta qualidade.
+### 🇧🇷 Sobre Mim
+Sou um **Desenvolvedor Full Stack** com 4 anos de experiência prática, focado na resolução de problemas reais através de código limpo e performático.
 
-### Minhas Habilidades
+Tenho autonomia para atuar em todo o ciclo de desenvolvimento de software (end-to-end), desde a modelagem do banco de dados até o deploy em ambiente Linux. Meu foco atual é aprimorar a escalabilidade de aplicações e implementar as melhores práticas de Engenharia de Software (SOLID, CI/CD).
 
-- **Front-End:** Proficiente em React, styled-components e Redux, criando interfaces de usuário responsivas e dinâmicas.
-- **Back-End:** Experiência com Node.js e Express, desenvolvendo lógica de servidor segura e APIs eficientes.
-- **Banco de Dados:** Habilidade com PostgreSQL para gerenciar dados complexos e garantir integridade.
-- **DevOps:** Utilizo Docker para containerização, melhorando a escalabilidade e facilidade de implantação.
+### 🇺🇸 About Me
+I am a **Full Stack Developer** with 4 years of hands-on experience, focused on solving real-world problems through clean and performant code.
 
-### Experiência
-
-Fundei e desenvolvi um sistema completo de varejo na Worldsoft, cobrindo controle de vendas, gestão de estoque, finanças e relatórios. Estou sempre em busca de aprimorar minhas habilidades técnicas e entregar soluções inovadoras.
-
-Fique à vontade para explorar meu trabalho e se conectar comigo!
+I work autonomously across the entire software development lifecycle (end-to-end), from database modeling to deployment in Linux environments. My current focus is improving application scalability and implementing Software Engineering best practices (SOLID, CI/CD).
 
 ---
 
-**In English:** <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="20" height="15" />
+### 🛠️ Tech Stack & Ferramentas
 
-### Hi there! 👋
+**Front-End**
+<br>
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-I'm **Henrique Araújo**, a Fullstack Developer. I’m married and have two wonderful kids. 👨‍👩‍👧‍👦
+**Back-End**
+<br>
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-404d59?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
+**DevOps & Infra**
+<br>
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### About Me
+---
 
-I'm a passionate Fullstack Developer with 3 years of experience crafting robust and scalable web applications. I have solid experience in front-end, back-end, and DevOps technologies, and I'm dedicated to delivering high-quality solutions.
+### 💼 Projeto em Destaque / Highlight Project
 
-### My Skills
+**Worldsoft Retail ERP**
+> *Desenvolvimento Full Stack & Infraestrutura*
+>
+> Desenvolvimento e sustentação de um sistema ERP completo para o varejo.
+> - **O Desafio:** Criar uma solução robusta para gestão de estoque e vendas com alta integridade de dados.
+> - **A Solução:** Implementação de API RESTful em Node.js com arquitetura modular e Front-end reativo em React.
+> - **Infraestrutura:** Configurei o ambiente de produção em VPS Linux utilizando Docker para garantir consistência entre ambientes.
 
-- **Front-End:** Proficient in React, styled-components, and Redux, creating responsive and dynamic user interfaces.
-- **Back-End:** Experienced with Node.js and Express, building secure and efficient server-side logic and APIs.
-- **Database:** Skilled in PostgreSQL for managing complex data and ensuring data integrity.
-- **DevOps:** Utilizes Docker for containerization, enhancing scalability and deployment ease.
+---
 
-### Experience
-
-I founded and developed a comprehensive retail system at Worldsoft, covering sales control, inventory management, finance, and reporting. I’m always looking to improve my technical skills and deliver innovative solutions.
-
-Feel free to explore my work and connect with me!
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriqaraujo1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqaraujo1&layout=compact&theme=dracula"/>
+</div>
